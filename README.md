@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+**Name** Daye Kim
+**Course** Art Appreciation 8
+**Description** This is my prompt portfolio for my Art Appreciation Class.
