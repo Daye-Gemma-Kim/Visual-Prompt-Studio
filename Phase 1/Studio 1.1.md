@@ -7,7 +7,7 @@ Right side: A bright, warm, and hopeful atmosphere. A happy adopted dog playing 
 The strong visual contrast symbolizes the tension between consumerism and compassion. Cinematic lighting, ultra-detailed textures, emotional storytelling, high resolution, professional advertising design, social justice theme, animal adoption advocacy, 8K quality.
 
 Vocabulary Breakdown:
-Medium
-Meaning
-Subject Matter
-Representation Art
+Medium refers to the materials, tools, and methods an artist uses to create an artwork. Examples include film, painting, digital art, photography, and LED billboards. For my assignment, I used an LED billboard as the medium.
+Meaning is the emotion, thought, or message the artist aims to convey to people through their artworks. When expressed in words, it can become the theme. The meaning of my assignment is to criticize the commercialization of pets and encourage compassion through adoption and donation.
+Subject Matter is the visible objects or content directly depicted in the painting. In my assignment, these are the puppies in the showroom, people holding money, the happy dog and human family, and the billboard.
+Representation Art realistically depicts things that exist in reality. In my assignment, this include the puppies, people, city, and billboard.
