@@ -1,8 +1,12 @@
 Assignment Title: Visual Studio 2.1 : Exploring Medium Through Prompt Variation
+
+
 Prompt A: Create an artwork using colored pencil drawing and emphasizes the elements and principles of line, color, texture, contrast, emphasize, and unity.
           Use sharpened colored pencils and a variety of layered colors on paper, and apply the characteristic techniques of this medium such as layering, cross-hatching, and gradual color build-up through repeated pencil strokes.
           These processes should highlight the quality of colored pencil, including fine linear detail, smooth color blending, and the subtle waxy texture created by layerd pencil marks.
           The composition should feature a dog sitting in the grass facing forward and smiling, with the detailed pencil strokes used to show the textures of the dog's fur and the surrounding grass.
+
+          
 Prompt B: Create an artwork that uses silkscreen printmaking and emphasizes the elements and principles of line, color, texgture, contrast, emphasis, and unity.
           Use screen mesh, stencils, a squeegee, and printing ink, and apply the characteristic processes of this medium such as stencil-based color separation and layered screen printing.
           These processes should highlight the visual qualities of silkscreen, inlcuding flat color areas, crisp edges, and bold graphic shapes created through the printing process.
