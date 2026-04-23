@@ -1,3 +1,5 @@
+Original Artwork : Giotto, Lamentation, c. 1305. Arena (Scrovegni) Chapel, Padua, Italy
+
 Prompt A
 Create a fresco painting set in the Early Renaissance period, depicting a deeply emotional religious scene inspired by the mourning of Christ. The composition should emphasize human emotion and naturalism, moving away from the rigid and symbolic style of the Middle Ages.
 The figures are arranged diagonally across the composition, guiding the viewer’s eye toward the central focal point: the lifeless body of Christ. Surrounding figures display individualized facial expressions of grief, sorrow, and despair, using soft, naturalistic gestures and body language. The use of line should be fluid and organic, enhancing the realism of human anatomy.
@@ -6,6 +8,7 @@ The scale of the figures should feel proportionate and believable, reflecting an
 This artwork is created during the Early Renaissance, a time when artists began to shift toward humanism and the study of the natural world. The purpose is to make religious stories more emotionally relatable and accessible to viewers, encouraging personal spiritual connection rather than distant reverence. Commissioned by wealthy patrons such as merchants or banking families, such works also reflect the growing economic power of urban centers in Italy and the desire to display both piety and social status through art.
 
 
+Original Artwork : Christ icon, 6th century. Encaustic, 33x18". St. Catherine's Monastery, Mount Sinai, Egypt
 Prompt B
 Create a Byzantine-style religious icon painting from the Middle Ages, depicting Christ as a divine and authoritative figure. The composition should be frontal, symmetrical, and highly formal, emphasizing spiritual power over naturalism.
 Christ is positioned centrally, directly facing the viewer, creating an intense and direct gaze that establishes a spiritual connection. His facial features are stylized rather than realistic, with elongated proportions and a solemn expression. The use of line should be sharp and defined, outlining the figure clearly against the background.
